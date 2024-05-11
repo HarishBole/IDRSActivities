@@ -1,0 +1,381 @@
+.image-container {
+    position: relative;
+    font-family: Lucida Handwriting , Apple Chancery , Brush Script;
+  }
+  
+  .activityimg1
+  
+  {
+    height: 50vh;
+    width: 100%;
+  }
+  .wi{
+    font-size: 40px;
+}
+  .pillwid
+  {
+    width: 70%;
+  }
+
+  .divwaitingtext1
+  {
+    position: absolute;
+    top: 10%;
+    left: 40%;
+    color: white;
+}
+.exploredata
+{
+    position: absolute;
+    background-color: white;
+    box-shadow: 0 2px 30px rgba(0,0,0,0.1);
+    transition: 0.3s;
+    height: 300px;
+    width: 50%;
+    top: 55%;
+    margin-left: 1200px;
+    border-radius: 40px;
+
+}
+
+.pilliconflex
+{
+   font-size: 45px;
+   margin-bottom: 20px;
+}
+
+/* .exploredata1
+{
+    position: absolute;
+    background-color: white;
+    box-shadow: 0 2px 30px rgba(0,0,0,0.1);
+    transition: 0.3s;
+    height: 150px;
+    width: 20%;
+    top: 54%;
+    margin-left: 1200px;
+    border-radius: 40px;
+
+} */
+
+
+
+.srearchpillpax1
+{
+    padding: 30px;
+    margin-left: 80px;
+}
+
+.srearchpillpax1 h1
+{
+    font-size: 40px;
+  
+}
+
+.srearchpillpax h1
+{
+    font-size: 40px;
+    
+}
+
+.srearchpillpax select
+{
+    border: none;
+    font-size: 30px;
+    margin-top: 5px;
+    margin-left: 50px;
+}
+
+.srearchpillpax input
+{
+    border: none;
+    font-size: 30px;
+    margin-top: 5px;
+    margin-left: 50px;
+}
+
+.srearchpillpaxborder
+{
+    border-right: solid #F9F6EE 2px;
+}
+
+.searchbut{
+    width: 150px;
+    height: 100px;
+   color: white;
+    font-size: 35px;
+    border-radius: 20px;
+    background-color: #000080;
+    text-align: center;
+  }
+
+  .divwaitingtext1 h1{
+    font-size: 120px;
+    
+  }
+
+  .exploreheadertext
+  {
+    margin-top: 150px;
+    margin-left: 200px;
+    
+  }
+  .exploreheadertext h1{
+    font-size: 60px;
+  }
+  
+  .explorecityimgflex
+  {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+  .exploreplasesimg
+  {
+    height: 30vh;
+    width: 40vh;
+    margin-left: 100px;
+    margin-top: 50PX;
+    border-radius: 30px;
+  }
+
+  .plasescontainer1
+  {
+    padding-left: 200px;
+    padding-right: 200px;
+    /* margin-left: 50px; */
+    margin-top: 100px;
+  }
+
+  .exploreplasesimgtext1  
+  {
+    
+
+ 
+    position: relative;
+    bottom: 200px;
+    color: white;
+    /* background-color: rgba(0, 0, 0, 0.5); */
+    width: 300px;
+    padding: 5px 10px;
+    border-radius: 5px;
+  } 
+
+ .iconmrleft
+ {
+    margin-left: 500px;
+ }
+
+ .exploreimgtextleft
+  {
+        margin-left: 400px;
+  }
+
+  .exploreimgtextleft1
+  {
+        margin-left: 200px;
+  }
+
+  .explore-card
+  {
+    background: #fff;
+
+       border-radius: 2px;
+       border: 2px ;
+       width: 1000px;
+       height: 500px;
+    
+
+       box-shadow: 0 2px 30px rgba(0,0,0,0.1);
+       transition: 0.3s;
+    
+  }
+  .explore-card-flex
+  {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+
+   .explore-card-left
+  {
+    margin-top: 100px;
+  }
+
+
+  .tripimg
+  {
+    
+    height: 400px;
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 30px;
+    float: left;
+    border-radius: 30px;
+  }
+  
+  .tripimg1
+  {
+    
+    height: 600px;
+    width: 1000px;
+    margin-top: 50px;
+    /* margin-left: 10px; */
+    float: left;
+    border-radius: 30px;
+  }
+  
+
+  .tripenametext
+  {
+    font-size: 50px;
+    margin-top: 70px;
+    margin-left: 30px;
+  }
+
+  .seeallbut{
+    width: 200px;
+    height: 95px;
+    margin-right: 350px;
+    font-size: 35px;
+    border-radius: 20px;
+    background-color: #000080;
+    color: white;
+    text-align: center;
+  }
+
+  .imgbor-50
+  {
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+  }
+
+  .w-80
+  {
+    width: 80%;
+  }
+
+  .w-90
+  {
+    width: 96%;
+    margin-top: 80px;
+  }
+ 
+
+  .exploreplasesimgtext2  
+  {
+    
+
+ 
+    position: relative;
+    bottom: 400px;
+    color: white;
+    /* background-color: rgba(0, 0, 0, 0.5); */
+    width: 300px;
+    padding: 5px 10px;
+    border-radius: 5px;
+  } 
+
+  .imgbor{
+      border-radius: 30px;
+  }
+
+
+
+  @media screen and (max-width: 480px)
+  {
+     
+    .activityimg1
+  
+    {
+      height: 50vh;
+      width: 100%;
+    }
+
+    .pillwid
+  {
+    width: 10%;
+  }
+
+  .divwaitingtext1 h1{
+    font-size: 25px;
+    
+  }
+
+  .divwaitingtext1
+  {
+    position: absolute;
+    top: 10%;
+    left: 20%;
+    color: white;
+}
+
+.wi{
+       font-size: 15px;
+}
+
+.exploredata
+{
+    position: absolute;
+    background-color: white;
+    box-shadow: 0 2px 30px rgba(0,0,0,0.1);
+    transition: 0.3s;
+    height: 90px;
+    width: 90%;
+    top: 55%;
+    margin-left: 10px;
+    border-radius: 10px;
+
+}
+
+.srearchpillpax1 h1
+{
+    font-size: 10px;
+}
+  }
+
+
+
+
+  @media only screen and (max-width: 768px) {
+
+    .exploredata {
+      text-align: center;
+    }
+  
+  
+    .image-container img {
+      max-width: 70%;
+      height: auto;
+    }
+  
+   
+    .exploreplasesimgtext1 {
+      margin-top: 10px;
+    }
+  
+ 
+    .explore-card {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+  
+    
+    .tripimg {
+      width: 100%;
+      height: auto;
+    }
+  
+   
+    .imgbor-50 {
+      width: 100%;
+      height: auto;
+    }
+  
+    .imgbor {
+      width: 100%;
+      height: auto;
+    }
+  }
+  
